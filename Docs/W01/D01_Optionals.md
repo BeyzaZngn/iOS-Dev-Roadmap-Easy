@@ -21,3 +21,5 @@ Swift güvenli bir dildir. Null pointer exception hatalarını derleme aşaması
 
 ### Why:
 "Optionals, programın çalışma anında beklenmedik şekilde çökmesini engelleyen bir emniyet kemeridir."
+
+![Swift Optionals Diagram](images/optionals.png)
