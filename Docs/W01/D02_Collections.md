@@ -15,6 +15,6 @@ Fiyat listesi üzerinden indirim, filtreleme ve toplama işlemleri yapıldı.
 
 ### Why:
 "Döngülerle 10 satırda yapacağın işi, map/filter ile tek satırda güvenle yaparsın."
----
 
+---
 ![Collections](../../images/collections.png)
