@@ -7,4 +7,5 @@
 
 import Foundation
 
-OptionalsDemo.run()
+//OptionalsDemo.run()
+CollectionsDemo.run()
