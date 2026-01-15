@@ -8,4 +8,5 @@
 import Foundation
 
 //OptionalsDemo.run()
-CollectionsDemo.run()
+//CollectionsDemo.run()
+FunctionsDemo.run()
