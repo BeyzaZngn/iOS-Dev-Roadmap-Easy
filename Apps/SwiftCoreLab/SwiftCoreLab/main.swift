@@ -9,4 +9,5 @@ import Foundation
 
 //OptionalsDemo.run()
 //CollectionsDemo.run()
-FunctionsDemo.run()
+//FunctionsDemo.run()
+ClosuresDemo.run()
